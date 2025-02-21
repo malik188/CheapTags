@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1034989757828",
+    "firebase_url": "https://cheaptagsapplication-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cheaptagsapplication",
+    "storage_bucket": "cheaptagsapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034989757828:android:97a58d59c5cfcfd29d29d1",
+        "android_client_info": {
+          "package_name": "com.example.cheaptags"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbcEsdkNkTBDGFqalN5N_9Uldcu2Fj-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034989757828:android:1d0b6f8ff44d42ae9d29d1",
+        "android_client_info": {
+          "package_name": "com.example.cheaptagsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbcEsdkNkTBDGFqalN5N_9Uldcu2Fj-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
